@@ -2,7 +2,7 @@
 
 ## ▶️ Sobre
 
-Este é um projeto desenvolvido como parte do meu treinamento para aprimorar minhas habilidades em desenvolvimento web. Ele foi criado como um exercício prático para explorar a validação de formulários utilizando JavaScript.
+Este é um projeto simples desenvolvido como parte do meu treinamento para aprimorar minhas habilidades em desenvolvimento web. Ele foi criado como um exercício prático para explorar a validação de formulários utilizando JavaScript.
 
 ## 🚀 Tecnologias:
  [![Html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)]()
